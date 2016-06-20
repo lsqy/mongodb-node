@@ -1,7 +1,6 @@
 {
-  "name": "mongoose_express",
+  "name": "mongoose-node",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "start": "nodemon ./bin/www"
   },
